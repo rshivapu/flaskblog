@@ -1,3 +1,9 @@
+pip install flask
+pip install flask-sqlalchemy
+pip install flask-wtf
+pip install flask-bcrypt
+pip install flask-login
+
 set FLASK_APP = flaskblog.py
 flask run
 
